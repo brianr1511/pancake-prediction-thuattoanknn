@@ -1,0 +1,13 @@
+{
+  "faildCount": 4,
+  "betAmountInBNB": 0.003,
+  "AutoBet": false,
+  "Proxy": "",
+  "DbServerName": "localhost",
+  "dbName": "StockData",
+  "dbUser": "antrung",
+  "dbPassword": "7539518426",
+  "websocketNode": "https://rpc.ankr.com/bsc",
+  "wallletPrivateKey": "525aacaffc6892cb914d1dc06ad6e70e4131e49b66920dbbc15813c3d228f2ff",
+  "rpc_Endpoint": "https://bsc-dataseed1.binance.org/"
+}
