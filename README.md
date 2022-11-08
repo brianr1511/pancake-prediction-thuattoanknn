@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/PancakePrediction/Pancake_Pridction_KNN/main/imgs/001.png)
+![image](https://raw.githubusercontent.com/brianr1511/pancake-prediction-thuattoanknn/blob/master/imgs/001.png)
 
 # Pancake_Prediction_KNN
 Đối với Pancake Prediction, hãy thử sử dụng thuật toán KNN để dự đoán.
