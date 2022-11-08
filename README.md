@@ -138,5 +138,5 @@ Bạn thua khi điểm của vòng đó < giá trị trung bình của các vòn
 + Nếu lost tiếp thì sẽ tính tiếp điểm vòng đó, khi < giá trị trung bình của các vòng thử trong 20+1 mẫu gần nhất và < max balance ví bạn => cược.
 + Vòng lặp sẽ vô hạn nếu chuỗi thua cứ tiếp diễn. Hãy tắt bot và chạy lại thay vì tắt chế độ tự cược. Vì khi mở lại, bot sẽ lấy giá trị cược được lưu ưu tiên thay vì giá trị điền trên ô.
 + Hiện đã tắt nên khi lost, bot vẫn chỉ đặt mức ban đầu trong config.
-##Hướng dẩn mở gấp đôi
+# Hướng dẫn mở gấp đôi
 Sẽ cập nhật sau...
