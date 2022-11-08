@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/PancakePrediction/Pancake_Pridction_KNN/main/imgs/001.png)
 
-# Pancake_Pridction_KNN
-Đối với Pancake Pridiction, hãy thử sử dụng thuật toán KNN để dự đoán.
+# Pancake_Prediction_KNN
+Đối với Pancake Prediction, hãy thử sử dụng thuật toán KNN để dự đoán.
 ## Các tính năng bao gồm
 1. Bạn có thể theo dõi biểu đồ để đặt cược nhanh.
 2. Nếu bạn giành chiến thắng trong vòng vừa rồi, script sẽ tự động claim giải thưởng.
